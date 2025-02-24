@@ -4,7 +4,7 @@ import subprocess
 
 # List your apps and their paths here
 apps = {
-    "kodi": "C:/Users/thant/Downloads/Kodi.exe",
+    "App 1": "C:/Path/To/App1.exe",
     "App 2": "C:/Path/To/App2.exe",
     "App 3": "C:/Path/To/App3.exe",
     "App 4": "C:/Path/To/App4.exe",
